@@ -11,7 +11,7 @@ public class Binary {
 
 				count++;
 
-		System.out.println(count);
+		System.out.println(count+" Hello");
 	}
 
 	public static void main(String[] args) {
